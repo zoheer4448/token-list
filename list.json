@@ -1,0 +1,14 @@
+{
+  "name": "VIP USDT",
+  "timestamp": "2026-06-07T00:00:00Z",
+  "tokens": [
+    {
+      "address": "0x9502cf23348AcA890ECa53411723D53CeFdd08a6",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "VIP USDT",
+      "symbol": "VUSDT",
+      "logoURI": "https://i.ibb.co/j14dCsC/IMG-20260529-020149-409.jpg"
+    }
+  ]
+}
